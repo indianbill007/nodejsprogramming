@@ -1,1 +1,2 @@
-console.log("thanks for watching");
+var logger =require('./logger');
+logger.log("hi sumit");
